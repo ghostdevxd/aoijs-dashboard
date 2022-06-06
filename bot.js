@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js");
 const dbdExpress = require("dbd.express")
 const bot = new aoijs.Bot({
-  token: process.env.token,  // .env dosyasına tokeni koyduysanız bu kısmı [ token: process.env.token, ] olarak değiştirin.
+  token: "TOKEN",  // .env dosyasına tokeni koyduysanız bu kısmı [ token: process.env.token, ] olarak değiştirin.
   prefix: "!", // Botunuzun prefixini(ön ekini) belirleyin.
   intents: "all", 
   mobilePlatform: false, // Botunuz mobileden giriş yapıyormuş gibi bir simge çıkmasını istiyorsanız [ true ] yazın.
