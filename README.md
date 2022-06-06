@@ -1,4 +1,4 @@
-<h1 align="center">Aoi.JS V4 DBD.Express</h1>
+<h1 align="center">Aoi.JS Dashboard</h1>
 
 # 📜 Açıklama
 Botunuzu çalıştırmak için [`bot.js`](https://github.com/ghostdevxd/aoijs-v4-dashboard/blob/main/bot.js) dosyasına girin ve `TOKEN` kısmını doldurun. <br>
